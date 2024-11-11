@@ -16,4 +16,4 @@ hdc install HarmonyKeyboard.hap
 
 底部两个图标是系统自带的，只能让它点击无效，无法让它消失
 
-
+有帮助就给个star吧！
