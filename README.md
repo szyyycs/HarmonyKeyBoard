@@ -2,6 +2,7 @@
 Similar to adbkeyboard(https://github.com/senzhk/ADBKeyBoard), hide the keyboard in harmony
 
 仿ADBKeyboard(https://github.com/senzhk/ADBKeyBoard), 在鸿蒙上实现不弹出键盘/弹出空键盘的效果。
+
 目前看起来在模拟器上不起效，在API12真机上正常运行。
 
 How to Use
